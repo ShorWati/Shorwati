@@ -11,8 +11,14 @@
  - Own social network (React,Go)(project is frozen) 
 
 ## 🍈 I collaborate with:
- - popich-nad
- - IliaBultihaetsya
+— Popich-nad(2024-now):
+     -PIX(2024-???)-Frontend
+     -WebProject(2024)-Frontend
+
+— IliaBultihaetsya(2024-now)
+     -PIX(2024-???)-Backend(Python)
+
+— 
 ## 🌐 Languages:
  - Go
  - JavaScript/TypeScript
