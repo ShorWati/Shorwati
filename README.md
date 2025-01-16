@@ -3,7 +3,7 @@
 
 ## 📫 Contacts:
  - ilyaslesarchuk54@gmail.com 
- - Eshkr#
+ - votena (discord)
 
 ## 🔧 I'm currently working on:
  - AI (C#,Python)
