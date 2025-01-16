@@ -1,16 +1,16 @@
-## Hi there👋
+# Hi there👋
  - I'm EshkrI'm just writing code in my free time.😛
 
-## 📫 Contacts:
+# 📫 Contacts:
  - ilyaslesarchuk54@gmail.com 
  - votena (discord)
 
-## 🔧 I'm currently working on:
+# 🔧 I'm currently working on:
  - AI (C#,Python)
  - Desktop app (Go)
  - Own social network (React,Go)(project is frozen) 
 
-## 🍈 I collaborate with:
+# 🍈 I collaborate with:
  ## Popich-nad(2024-now):
  -PIX(2024-???)-Frontend
  -WebProject(2024)-Frontend
