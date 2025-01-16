@@ -4,7 +4,6 @@
 ## 📫 Contacts:
  - ilyaslesarchuk54@gmail.com 
  - Eshkr#
- - 
 
 ## 🔧 I'm currently working on:
  - AI (C#,Python)
@@ -13,7 +12,7 @@
 
 ## 🍈 I collaborate with:
  - popich-nad
- - iliabultihaetsya
+ - IliaBultihaetsya
 ## 🌐 Languages:
  - Go
  - JavaScript/TypeScript
