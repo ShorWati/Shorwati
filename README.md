@@ -1,4 +1,10 @@
-## Hi there, I'm Eshkr 👋
+## Hi there👋
+ - I'm EshkrI'm just writing code in my free time.😛
+
+## 📫 Contacts:
+ - ilyaslesarchuk54@gmail.com 
+ - Eshkr#
+ - 
 
 ## 🔧 I'm currently working on:
  - AI (C#,Python)
@@ -6,8 +12,15 @@
  - Own social network (React,Go)(project is frozen) 
 
 ## 🍈 I collaborate with:
- - @pop-ich
- - @iliabultihaetsya
+ - popich-nad
+ - iliabultihaetsya
+## 🌐 Languages:
+ - Go
+ - JavaScript/TypeScript
+ - C#
+ - Python
+ - C
+   
 <!--
 **ShorWati/Shorwati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
