@@ -1,13 +1,13 @@
 ## Hi there, I'm Eshkr 👋
 
 ## 🔧 I'm currently working on:
-## - AI (C#,Python)
-## - Desktop app (Go)
-## - Own social network (React,Go)(project is frozen) 
+ - AI (C#,Python)
+ - Desktop app (Go)
+ - Own social network (React,Go)(project is frozen) 
 
 ## 🍈 I collaborate with:
-## - @pop-ich
-## - @iliabultihaetsya
+ - @pop-ich
+ - @iliabultihaetsya
 <!--
 **ShorWati/Shorwati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
