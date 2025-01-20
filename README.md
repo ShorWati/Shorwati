@@ -9,17 +9,16 @@
  - AI (C#,Python)
  - Among us plugin (C#)
  - Desktop app (Go)
- - Own social network (React,Go)(project is frozen) 
 
 # 🍈 I collaborate with:
  ## Popich-nad(2024-now): 
- - PIX(2024-???)-Frontend
+ - PIX(2024-2025)-Frontend
  - WebProject(2024)-Frontend
  - AI (2025-now)
  - amongus plugin (2025-now)
 
  ## IliaBultihaetsya(2024-now):
- - PIX(2024-???)-Backend(Python)
+ - PIX(2024-2025)-Backend(Python)
 
  ## Shyuli27(2025-now):
   - AI(2025-now)
