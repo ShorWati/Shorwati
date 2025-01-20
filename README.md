@@ -4,3 +4,4 @@
 # 📫 Contacts:
  - ilyaslesarchuk54@gmail.com 
  - votena (discord)
+ - https://x.com/ShorWati54 - X(Twitter)
