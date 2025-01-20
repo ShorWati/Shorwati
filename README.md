@@ -14,6 +14,8 @@
  ## Popich-nad(2024-now): 
  - PIX(2024-???)-Frontend
  - WebProject(2024)-Frontend
+ - AI (2025-now)
+ - amongus plugin (2025-now)
 
  ## IliaBultihaetsya(2024-now):
  - PIX(2024-???)-Backend(Python)
