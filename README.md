@@ -7,6 +7,7 @@
 
 # 🔧 I'm currently working on:
  - AI (C#,Python)
+ - Among us plugin (C#)
  - Desktop app (Go)
  - Own social network (React,Go)(project is frozen) 
 
