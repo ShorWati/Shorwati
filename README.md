@@ -2,9 +2,11 @@
  <h3> I'm EshkrI'm just writing code in my free time.😛</h3>
 
 <h1 align="center">📫 Contacts:</h1>
+<ol>
  - ilyaslesarchuk54@gmail.com 
  - votena (discord)
  - https://x.com/ShorWati54 - X(Twitter)
+</ol>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShorWati&theme=solarized_dark)
 
