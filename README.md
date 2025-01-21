@@ -5,3 +5,6 @@
  - ilyaslesarchuk54@gmail.com 
  - votena (discord)
  - https://x.com/ShorWati54 - X(Twitter)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShorWati&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShorWati)
