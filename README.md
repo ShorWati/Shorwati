@@ -6,5 +6,16 @@
  - votena (discord)
  - https://x.com/ShorWati54 - X(Twitter)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShorWati&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShorWati)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShorWati&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShorWati&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShorWati&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShorWati&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShorWati&theme=solarized_dark)
