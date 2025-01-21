@@ -8,13 +8,9 @@
  - https://x.com/ShorWati54 - X(Twitter)
 </ol>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShorWati&theme=solarized_dark)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShorWati&theme=solarized_dark)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShorWati&theme=solarized_dark)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShorWati&theme=solarized_dark)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShorWati&theme=solarized_dark)
