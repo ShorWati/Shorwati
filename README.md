@@ -3,9 +3,9 @@
 
 <h1 align="center">📫 Contacts:</h1>
 <ol>
- - ilyaslesarchuk54@gmail.com 
- - votena (discord)
- - https://x.com/ShorWati54 - X(Twitter)
+ | ilyaslesarchuk54@gmail.com 
+ | votena (discord)
+ | https://x.com/ShorWati54 - X(Twitter)
 </ol>
 <h1 align="center">🕒Stats</h1>
 
