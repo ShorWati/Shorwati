@@ -2,7 +2,7 @@
 <h1 align="center"> Hi there👋 </h1>
  <h3 align="center"> I'm Eshkr and I'm really cool😎.</h3>
 
-<h1 align="center">My collaborations</h1>
+<h1 align="center">My collaborations💭</h1>
 <div align='center'>
 - <a href='https://github.com/Popich-nad' text-align='center'>Popich</a> -
 - <a href='https://github.com/IliaBultihaetsya'>Maksik</a> -
