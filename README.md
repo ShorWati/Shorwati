@@ -18,6 +18,16 @@
   </div>
 <h1 align="center">🕒Stats</h1>
 <div align='center'>
+<h1 align='center'>Languages👅</h1>
+<div>
+ <ul>
+  <li>JAVA</li>
+  <li>GO</li>
+  <li>C</li>
+  <li>PYTHON</li>
+  <li>JS</li>
+ </ul>
+</div>
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShorWati&theme=solarized_dark)
 
