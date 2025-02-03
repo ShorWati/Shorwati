@@ -25,7 +25,7 @@
   <li>GO</li>
   <li>C</li>
   <li>PYTHON</li>
-  <li>JS</li>
+  <li>JavaScript</li>
  </ul>
 </div>
  
@@ -37,5 +37,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShorWati&theme=solarized_dark)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShorWati&theme=solarized_dark)
 </div>
