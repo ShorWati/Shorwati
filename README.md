@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/736x/79/0a/81/790a8166730ad7de5cd09391b86d987d.jpg" text-align: center height=400 px width=1200 px>
 <h1>Hi 👋, I'm Ilya.</h1>
-<p>A developer from Russia.</p>
+<p>A passionate developer from Russia.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
