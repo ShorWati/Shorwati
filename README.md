@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/736x/79/0a/81/790a8166730ad7de5cd09391b86d987d.jpg" text-align: center height=400 px width=1200 px>
 
 # 💫 About Me:
-A passionate developer from Russia.
+Yo
 
 
 ## 🌐 Socials:
