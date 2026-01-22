@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/d1/d4/ab/d1d4ab56d7f8778ce2cb4071b419d2ae.jpg" text-align: center height=400 px width=1200 px>
+<img src="https://i.pinimg.com/736x/96/60/c4/9660c400bb40d456703eeb4bd8c85da0.jpg" text-align: center height=400 px width=1200 px>
 
 
 ## 🌐 Socials:
